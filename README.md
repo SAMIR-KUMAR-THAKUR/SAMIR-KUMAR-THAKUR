@@ -1,9 +1,11 @@
 ## Hi there 👋
 # 💫 About Me:
 <h1 align="center">About Me 
-  :</h1><br><br>🔭 <h1 align="center">About Me :</h1>
+  :</h1><br><br>🔭 
+  <h1 align="center">
 
 🔭 I’m currently working on **my BCA degree & foundational AI models**
+
 👯 I’m looking to collaborate on **open-source Machine Learning projects**
 🤝 I’m looking for help with **optimizing Neural Networks & system Kernels**
 🌱 I’m currently learning **AI, ML, Deep Learning & Kernels**
