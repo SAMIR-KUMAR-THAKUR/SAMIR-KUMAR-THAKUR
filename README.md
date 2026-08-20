@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-<h1 align="center">About Me :</h1><br><br>🔭 I’m currently working on **my BCA degree & foundational AI models**<br>👯 I’m looking to collaborate on **open-source Machine Learning projects**<br>🤝 I’m looking for help with **optimizing Neural Networks & system Kernels**<br>🌱 I’m currently learning **AI, ML, Deep Learning & Kernels**<br>💬 Ask me about **algorithms, BCA life, or tech as a 19yo dev**<br>⚡ Fun fact: **I train my neural networks with as much caffeine as I train myself! ☕**
+🔭 I’m currently working on **my BCA degree & foundational AI models**<br>👯 I’m looking to collaborate on **open-source Machine Learning projects**<br>🤝 I’m looking for help with **optimizing Neural Networks & system Kernels**<br>🌱 I’m currently learning **AI, ML, Deep Learning & Kernels**<br>💬 Ask me about **algorithms, BCA life, or tech as a 19yo dev**<br>⚡ Fun fact: **I train my neural networks with as much caffeine as I train myself! ☕**
 
 
 ## 🌐 Socials:
